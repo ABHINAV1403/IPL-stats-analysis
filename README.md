@@ -1,7 +1,6 @@
 This repository contains a Tableau dashboard analyzing IPL (Indian Premier League) statistics. The dashboard provides insights into key metrics such as winners, top performers, and player achievements across different seasons.
 
-Dashboard Overview
-
+# Dashboard Overview
 The Tableau dashboard includes:
 ✅ IPL Winners – Year-wise champions of the tournament
 ✅ Man of the Match Awardees – Players with the most match-winning performances
